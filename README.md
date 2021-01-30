@@ -1,6 +1,6 @@
-# Vue Crash Course (TodoList)
+# Vue TodoList
 
-This is the code for [the crash course on YouTube](https://youtu.be/Wy9q22isx3U)
+This is a todo list application developed using vue framework
 
 ## Quick Start
 
